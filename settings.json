@@ -1,0 +1,22 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.renderWhitespace": "all",
+	"editor.renderControlCharacters": true,
+	"editor.renderIndentGuides": true,
+	"window.zoomLevel": 1,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+	"javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+	"terraform.format": {
+		"enable": false,
+		"ignoreExtensionsOnSave": [
+			".tfsmurf"
+		],
+		"formatOnSave": false
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"terraform.codelens.enabled": false
+}
